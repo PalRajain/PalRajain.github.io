@@ -1,0 +1,27 @@
+{
+  "name": "PalRajain.github.io",
+  "homepage": "https://github.com/PalRajain/PalRajain.github.io",
+  "authors": [
+    "nightBulb <gwibo.web@gmail.com>"
+  ],
+  "description": "Pallavi Rajain official website",
+  "main": "index.html",
+  "keywords": [
+    "Pallavi",
+    "Rajain",
+    "research",
+    "paper"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
+}
