@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://palrajain.github.io/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/deep-learning/</loc>
+    <loc>https://palrajain.github.io/projects/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/example-external-project/</loc>
+    <loc>https://palrajain.github.io/projects/example-external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/example-post/</loc>
+    <loc>https://palrajain.github.io/blog/example-post/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/another-post/</loc>
+    <loc>https://palrajain.github.io/blog/another-post/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/home/about/</loc>
+    <loc>https://palrajain.github.io/home/about/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/home/teaching/</loc>
+    <loc>https://palrajain.github.io/home/teaching/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publications/student-attitude/</loc>
+    <loc>https://palrajain.github.io/publications/student-attitude/</loc>
     <lastmod>2016-04-01T18:36:27+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publications/service-quality-gap-in-banking/</loc>
+    <loc>https://palrajain.github.io/publications/service-quality-gap-in-banking/</loc>
     <lastmod>2014-07-01T13:42:42+05:30</lastmod>
   </url>
   

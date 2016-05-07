@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Researcher</title>
-    <link>http://localhost:1313/publications/</link>
+    <link>https://PalRajain.github.io/publications/</link>
     <description>Recent content in Publications on Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Apr 2016 18:36:27 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://PalRajain.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Student&#39;s Attitude: A Reflection of Teachers&#39; Commitment</title>
-      <link>http://localhost:1313/publications/student-attitude/</link>
+      <link>https://palrajain.github.io/publications/student-attitude/</link>
       <pubDate>Fri, 01 Apr 2016 18:36:27 +0530</pubDate>
       
-      <guid>http://localhost:1313/publications/student-attitude/</guid>
+      <guid>https://palrajain.github.io/publications/student-attitude/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To Identify Service Quality Gaps in Banking Sector: A Study of Private Banks</title>
-      <link>http://localhost:1313/publications/service-quality-gap-in-banking/</link>
+      <link>https://palrajain.github.io/publications/service-quality-gap-in-banking/</link>
       <pubDate>Tue, 01 Jul 2014 13:42:42 +0530</pubDate>
       
-      <guid>http://localhost:1313/publications/service-quality-gap-in-banking/</guid>
+      <guid>https://palrajain.github.io/publications/service-quality-gap-in-banking/</guid>
       <description></description>
     </item>
     
