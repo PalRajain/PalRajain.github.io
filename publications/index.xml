@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Researcher</title>
+    <link>http://localhost:1313/publications/</link>
+    <description>Recent content in Publications on Researcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 2016 18:36:27 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Student&#39;s Attitude: A Reflection of Teachers&#39; Commitment</title>
+      <link>http://localhost:1313/publications/student-attitude/</link>
+      <pubDate>Fri, 01 Apr 2016 18:36:27 +0530</pubDate>
+      
+      <guid>http://localhost:1313/publications/student-attitude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>http://localhost:1313/publications/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publications/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
