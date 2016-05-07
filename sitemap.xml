@@ -18,16 +18,6 @@
   </url>
   
   <url>
-    <loc>https://palrajain.github.io/blog/example-post/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://palrajain.github.io/blog/another-post/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://palrajain.github.io/home/about/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -45,6 +35,16 @@
   <url>
     <loc>https://palrajain.github.io/publications/service-quality-gap-in-banking/</loc>
     <lastmod>2014-07-01T13:42:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://palrajain.github.io/publications/service-value-chain-models/</loc>
+    <lastmod>2013-07-01T19:33:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://palrajain.github.io/publications/green-marketing-road-ahead/</loc>
+    <lastmod>2013-01-01T19:19:42+05:30</lastmod>
   </url>
   
 </urlset>
