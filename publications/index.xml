@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Researcher</title>
+    <title>Publications on Pallavi Rajain</title>
     <link>https://PalRajain.github.io/publications/</link>
-    <description>Recent content in Publications on Researcher</description>
+    <description>Recent content in Publications on Pallavi Rajain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Apr 2016 18:36:27 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 07 May 2016 20:33:21 +0530</lastBuildDate>
     <atom:link href="https://PalRajain.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>effectiveness activity based learning</title>
+      <link>https://palrajain.github.io/publications/effectiveness-activity-based-learning/</link>
+      <pubDate>Sat, 07 May 2016 20:33:21 +0530</pubDate>
+      
+      <guid>https://palrajain.github.io/publications/effectiveness-activity-based-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Student&#39;s Attitude: A Reflection of Teachers&#39; Commitment</title>
