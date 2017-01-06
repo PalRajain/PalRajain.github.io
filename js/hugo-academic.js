@@ -90,6 +90,27 @@
   });
 
   /* ---------------------------------------------------------------------------
+   * Filter projects.
+   * --------------------------------------------------------------------------- */
+
+  var $container = $('#container-projects');
+  $container.imagesLoaded(function () {
+    // Initialize Isotope after all images have loaded.
+    $container.isotope({
+      itemSelector: '.isotope-item',
+      layoutMode: 'masonry'
+    });
+
+    // Filter items when filter link is clicked.
+    $('#filters a').click(function () {
+     var selector = $(this).attr('data-filter');
+     $container.isotope({filter: selector});
+     $(this).removeClass('active').addClass('active').siblings().removeClass('active all');
+     return false;
+     });
+  });
+
+  /* ---------------------------------------------------------------------------
    * On window load.
    * --------------------------------------------------------------------------- */
 
@@ -102,6 +123,30 @@
     if (window.location.hash == "#top") {
       window.location.hash = ""
     }
+
+    // Initialize Scrollspy.
+    var $body = $('body');
+    var $navbar = $('.navbar-header');
+    var navbar_offset = $navbar.innerHeight() + 1;
+    $body.scrollspy({offset: navbar_offset });
+
+    // Make Scrollspy responsive.
+    function fixScrollspy() {
+      var data = $body.data('bs.scrollspy');
+      if (data) {
+        navbar_offset = $navbar.innerHeight() + 1;
+        data.options.offset = navbar_offset;
+        $body.data('bs.scrollspy', data);
+        $body.scrollspy('refresh');
+      }
+    }
+
+    // Call `fixScrollspy` when window is resized.
+    var resizeTimer;
+    $(window).resize(function() {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(fixScrollspy, 200);
+    });
 
   });
 
