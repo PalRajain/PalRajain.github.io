@@ -1,124 +1,214 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://palrajain.github.io/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/book-review-sensory-marketing-aspects/</loc>
+      <lastmod>2016-07-07T15:30:04+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/wlb-practices-and-challenges-of-women-it/</loc>
+      <lastmod>2016-07-06T18:55:47+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/home/publications_selected/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/customer-complaint-behavior/</loc>
+      <lastmod>2016-07-01T16:51:45+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/confirmatory-factor-analysis-public-banks/</loc>
+      <lastmod>2016-07-01T16:39:26+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/project/women-entrepreneurship/</loc>
+      <lastmod>2016-06-05T14:06:35+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/home/contact/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/drivers-of-green-marketing/</loc>
+      <lastmod>2016-05-01T18:38:51+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/book-review-sensory-marketing-aspects/</loc>
-    <lastmod>2016-07-07T15:30:04+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/confirmatory-factor-analysis/</loc>
+      <lastmod>2016-05-01T18:13:45+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/wlb-practices-and-challenges-of-women-it/</loc>
-    <lastmod>2016-07-06T18:55:47+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/student-attitude/</loc>
+      <lastmod>2016-04-01T18:36:27+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/customer-complaint-behavior/</loc>
-    <lastmod>2016-07-01T16:51:45+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/effectiveness-activity-based-learning/</loc>
+      <lastmod>2016-03-01T20:33:21+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/confirmatory-factor-analysis-public-banks/</loc>
-    <lastmod>2016-07-01T16:39:26+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/drivers-and-barriers-women-entrepreneurship/</loc>
+      <lastmod>2016-03-01T18:34:48+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/project/women-entrepreneurship/</loc>
-    <lastmod>2016-06-05T14:06:35+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/health-care-service-quality/</loc>
+      <lastmod>2015-06-25T20:01:30+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/drivers-of-green-marketing/</loc>
-    <lastmod>2016-05-01T18:38:51+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/assessment-service-quality-public-bank/</loc>
+      <lastmod>2015-04-22T20:19:58+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/confirmatory-factor-analysis/</loc>
-    <lastmod>2016-05-01T18:13:45+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/service-quality-gap-in-banking/</loc>
+      <lastmod>2014-07-01T13:42:42+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/home/teaching/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/challenges-faced-by-women-entrepreneurs-present-tech-era/</loc>
+      <lastmod>2014-06-06T19:02:09+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/student-attitude/</loc>
-    <lastmod>2016-04-01T18:36:27+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/student-perception-professional-commitment/</loc>
+      <lastmod>2014-02-20T19:11:12+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/effectiveness-activity-based-learning/</loc>
-    <lastmod>2016-03-01T20:33:21+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/service-value-chain-models/</loc>
+      <lastmod>2013-07-01T19:33:43+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/drivers-and-barriers-women-entrepreneurship/</loc>
-    <lastmod>2016-03-01T18:34:48+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/green-marketing-road-ahead/</loc>
+      <lastmod>2013-01-01T19:19:42+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/health-care-service-quality/</loc>
-    <lastmod>2015-06-25T20:01:30+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/assessment-service-quality-public-bank/</loc>
-    <lastmod>2015-04-22T20:19:58+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/service-quality-gap-in-banking/</loc>
-    <lastmod>2014-07-01T13:42:42+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2016-06-05T14:06:35+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/challenges-faced-by-women-entrepreneurs-present-tech-era/</loc>
-    <lastmod>2014-06-06T19:02:09+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/student-perception-professional-commitment/</loc>
-    <lastmod>2014-02-20T19:11:12+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2016-07-07T15:30:04+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://palrajain.github.io/publication/service-value-chain-models/</loc>
-    <lastmod>2013-07-01T19:33:43+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://palrajain.github.io/publication/green-marketing-road-ahead/</loc>
-    <lastmod>2013-01-01T19:19:42+05:30</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>
